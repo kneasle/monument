@@ -3,6 +3,12 @@
 A fast and flexible composing engine for
 [method ringing](https://en.wikipedia.org/wiki/Method_ringing).
 
+## Monument has moved!
+
+It now lives in [this repository](https://github.com/kneasle/ringing-monorepo), along with Jigsaw and bellframe.
+
+---
+
 ## Goals
 
 Goals are roughly ordered with most important first.
